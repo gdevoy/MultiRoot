@@ -9,7 +9,6 @@ import android.widget.EditText;
 
 import java.text.DecimalFormat;
 
-import static android.R.attr.order;
 
 public class MainActivity extends AppCompatActivity {
 

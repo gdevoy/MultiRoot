@@ -8,9 +8,8 @@ public class Root {
 
 
         // fields
-        private double num;  //name of the person
-        private int order,count; // maximum number of books the person can borrow
-
+        private double num;  //number to find the root of
+        private int order,count; // order of the root and the number of itteratios
         // constructor
         public Root(){
             num=1;
